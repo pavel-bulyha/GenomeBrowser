@@ -1,0 +1,5 @@
+dearpygui
+biopython
+scikit-allel
+numpy
+matplotlib
