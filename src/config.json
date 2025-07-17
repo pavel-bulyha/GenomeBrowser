@@ -1,0 +1,11 @@
+{
+  "window_size": 200,
+  "scale": 10,
+  "viewport": {
+    "width": 900,
+    "height": 700
+  },
+  "text_width": 850,
+  "canvas_height": 80,
+  "initial_dir": ""
+}
